@@ -1,21 +1,17 @@
-# Brain MRI Tracer Animation (Processing)
+# 🧠 Brain MRI Tracer Animation (Processing)
 
 This project generates an animated GIF using **Processing** and the **GifAnimation** library.  
-The effect simulates particles (“traceurs”) that follow brightness gradients in an axial MRI slice of the human brain.
+Particles (“traceurs”) follow brightness gradients in an axial MRI slice, creating a dynamic texture shaped by brain morphology.
 
-The result is a dynamic visualization that blends medical imaging, computational art, and particle-based simulation, producing an evolving texture shaped directly by brain morphology. The code captures each frame and exports a high-quality GIF using the GifAnimation library.
+Key features:
 
-This project demonstrates:
+- Particles guided by MRI pixel intensities
+- Generative art from scientific imaging
+- Frame-by-frame GIF animation
+- Educational and visually compelling visualization of MRI data
 
-- How pixel intensities in MRI can be used to guide particle movement
+Ideal for neuroscience outreach, generative art experiments, or educational demonstrations of image-based datasets.
 
-- How to create generative art from scientific imaging
-
-- How to produce frame-by-frame animations in Processing
-
-- A visually compelling way to explore MRI datasets
-
-It is ideal for neuroscience outreach, generative art experiments, or educational visualization of image-based data.
 ---
 ## ✨ Visualization Concept
 
